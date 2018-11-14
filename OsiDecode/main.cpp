@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    string S="Hello!!";
+    string S="ali!!";
     Coding c(S);
     string coded=c.coder();
     cout << "original string :"<<S<<endl;
